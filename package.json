@@ -1,0 +1,16 @@
+{
+  "name": "csgo-status-bot",
+  "version": "1.0.0",
+  "description": "CSGO Server Status on Discord Server ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Batuhan Aydemir | zeqcv",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.1.1",
+    "gamedig": "^2.0.24"
+  }
+}

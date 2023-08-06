@@ -1,0 +1,67 @@
+{
+    "default_map_name": "Maps Datasında Sunucunun Anlık Map'i Bulunmuyorsa Gösterilecek İsim",
+    "default_image_url": "Maps Datasında Sunucunun Anlık Map'i Bulunmuyorsa Gösterilecek Resim",
+    
+    
+    "de_dust2": {
+        "name": "Dust2",
+        "image": "https://liquipedia.net/commons/images/thumb/1/12/Csgo_dust2.0.jpg/534px-Csgo_dust2.0.jpg" 
+    },
+    "de_dust2_old": {
+        "name": "Eski Dust2",
+        "image": "https://steamuserimages-a.akamaihd.net/ugc/100603562875032052/76F9754CBE3CA76DC6AD49C5B58605EF741120FD/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
+    },
+    "de_dust": {
+        "name": "Dust",
+        "image": "https://steamuserimages-a.akamaihd.net/ugc/884099387636142158/952C5F54CE8C1836C4775EEC6A3D4581AC96F83E/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    "de_cache": {
+        "name": "Cache",
+        "image": "https://liquipedia.net/commons/images/thumb/6/60/CSGO_Cache_2019_rework.jpg/534px-CSGO_Cache_2019_rework.jpg"
+    },
+    "de_cache_old": {
+        "name": "Eski Cache",
+        "image": "https://steamuserimages-a.akamaihd.net/ugc/492393550291284705/4E36E28FC4660F7EB73BE4EF81607E6008C672A2/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
+    },
+    "de_cobblestone": {
+        "name": "Cobblestone",
+        "image": "https://liquipedia.net/commons/images/thumb/b/b4/Csgo_cobblestone.jpg/600px-Csgo_cobblestone.jpg"
+    },
+    "de_cobblestone_old": {
+        "name": "Eski Cobblestone",
+        "image": "https://steamuserimages-a.akamaihd.net/ugc/267227358844648879/EED7669E8D770DE7B524EEA52F829531A50998F2/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    "de_nuke": {
+        "name": "Nuke",
+        "image": "https://liquipedia.net/commons/images/thumb/5/5e/Nuke_csgo.jpg/534px-Nuke_csgo.jpg"
+    },
+    "de_mirage": {
+        "name": "Mirage",
+        "image": "https://liquipedia.net/commons/images/thumb/f/f3/Csgo_mirage.jpg/534px-Csgo_mirage.jpg"
+    },
+    "de_inferno": {
+        "name": "Inferno",
+        "image": "https://liquipedia.net/commons/images/thumb/2/2b/De_new_inferno.jpg/534px-De_new_inferno.jpg"
+    },
+    "de_overpass": {
+        "name": "Overpass",
+        "image": "https://liquipedia.net/commons/images/thumb/0/0f/Csgo_overpass.jpg/534px-Csgo_overpass.jpg"
+    },
+    "de_ancient": {
+        "name": "Ancient",
+        "image": "https://liquipedia.net/commons/images/thumb/3/35/Csgo_ancient.jpeg/534px-Csgo_ancient.jpeg"
+    },
+    "de_vertigo": {
+        "name": "Vertigo",
+        "image": "https://liquipedia.net/commons/images/thumb/5/59/Csgo_de_vertigo_new.jpg/534px-Csgo_de_vertigo_new.jpg"
+    },
+    "de_anubis": {
+        "name": "Anubis",
+        "image": "https://liquipedia.net/commons/images/thumb/5/59/Anubis_csgo.jpg/534px-Anubis_csgo.jpg"
+    },
+    "de_train": {
+        "name": "Train",
+        "image": "https://liquipedia.net/commons/images/thumb/5/56/Train_csgo.jpg/534px-Train_csgo.jpg"
+    }
+    
+}

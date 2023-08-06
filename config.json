@@ -1,0 +1,13 @@
+{
+    "PREFIX" : "! veya / yada Tercihen Komut Ön eki",
+    
+    "SERVER_ID" : "Botun Bulunduğu Server ID'si",
+
+    "STATUS_CHANNEL_ID" : "Durum komutunun kullanılabileceği text kanalı ID'si",
+
+    "IP" : "CSGO Sunucunuzun IP adresi",
+
+    "PORT" : 27015,
+
+    "BOT_TOKEN" : "Discord Botunuzun Tokeni"
+}
